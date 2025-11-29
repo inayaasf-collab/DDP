@@ -1,0 +1,12 @@
+#Buatlah program python untuk menuliskan profil pribadi (nama, nim, kelas, no telp, alamat) menggunakan variabel dan di cetak (print
+nama = "Inayah Safitri"
+nim = "0110125028"
+kelas ="SI02"
+telp = "081383382275"
+domisili = "bogor"
+
+print(nama)
+print(nim)
+print(kelas)
+print(telp)
+print(domisili)

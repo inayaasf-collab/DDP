@@ -1,0 +1,8 @@
+# buat program python untuk mencari nilai konversi dari celcius ke fahreinheit
+
+celcius = float(input("Masukan nilai dalam celcius"))
+fahreinheit = (celcius * 1.8) + 32
+
+print("======== Hasil dari konversi =======")
+print(f"Nilai dalam celcius adalah : {celcius} derajat C")
+print(f"Nilai dalam fahreinheit adalah : {fahreinheit} derajat F")

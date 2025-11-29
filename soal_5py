@@ -1,0 +1,22 @@
+# buat program python untuk mencari luas dan keliling tabung
+
+ #luas tabung
+rumus = 2
+pi = float(3.14)
+jari_jari = int(input("masukan jari jari :"))
+tinggi = int(input("masukan tinggi :"))
+
+jumlah1 = jari_jari + tinggi
+jumlah2 = rumus * pi * jari_jari * jumlah1
+
+print(jumlah2)
+
+#keliling tabung
+
+rumus = 2
+pi = float(3.14)
+jari_jari = int(input("masukanjari jari : "))
+
+jumlah = rumus * pi * jari_jari
+
+print(jumlah)

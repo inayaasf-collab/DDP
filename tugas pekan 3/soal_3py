@@ -1,0 +1,5 @@
+# buat program python untuk mencari nilai berat badan ideal
+tinggi_badan = int(input("masukan tinggi badan"))
+rumus_bb_ideal=int(53)
+a = tinggi_badan-rumus_bb_ideal
+print (a)

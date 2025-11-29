@@ -1,0 +1,12 @@
+# buat seperti no 1 tapi 1 nama teman kalian
+nama = "Laura Aulia Putri"
+nim = "0110125112"
+kelas ="SI02"
+telp = "089602663278"
+domisili = "bogor"
+
+print(nama)
+print(nim)
+print(kelas)
+print(telp)
+print(domisili)

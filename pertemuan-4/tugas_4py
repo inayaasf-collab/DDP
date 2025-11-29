@@ -1,0 +1,6 @@
+status = input("Status keanggotaan (gold/silver/bronze): ")
+
+if status == "gold" or status == "silver":
+    print("Selamat! Anda mendapatkan diskon")
+else:
+    print("Maaf, tidak ada diskon")
